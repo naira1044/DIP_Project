@@ -13,7 +13,7 @@ from morphology import apply_morphology
 st.set_page_config(page_title="DIP Project ", layout="wide")
 
 
-st.title("Digital Image Processing Tool ")
+st.title("Digital Image Processing TooL ")
 
 
 tasks = {
